@@ -277,7 +277,7 @@ h1, h2, h3, h4, h5, h6 { color: #333; }
   color: #fff;
 }
 
-.tm-gallery-section { padding-bottom: 40px; }
+.tm-gallery-section { padding-bottom: 0px; }
 
 .tm-gallery-outer {
   margin-left: -10px;
